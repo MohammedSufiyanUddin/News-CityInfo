@@ -1,0 +1,20 @@
+[
+    {
+        "img_url":"https://www.mapsofindia.com/maps/maharashtra/tehsil/nanded-tehsil-map.jpg",
+        "country":"India",
+        "state":"Maharashtra",
+        "region":"Marathwada",
+        "district":"Nanaded",
+        "type":"Muncipal corporation",
+        "body":"Nanded-Waghala-Muncipal-Corporation",
+        "area":"63.22km2",
+         "population":550.439,
+         "relegion":[{
+             "Hindu":"48.06%",
+            "Muslim":"33.59%",
+            "Budhist":"15.35%",
+            "Sikh":"2.00%",
+            "Others":"1%"
+         }]
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "img_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzduhFnkqc_tNkn8L3D0-yJ81nnMNlJwIL19Jb1ALNu0J4ea2DbpXyyNho4OHZBfRb_dA&usqp=CAU",
+        "district":["Aurangabad","Beed","Hingoli","Jalna","Latur","Nanded","Osmanabad","Parbhani"],
+        "largest_city":"Aurangabad",
+        "Division":"Auranagabad Division",
+        "Area":"64.590 km2",
+        "population_2011":"18,731,872",
+        "literacy":"76.27%",
+        "sex_ratio":932,
+        "languages":[
+            {
+                "marathi":"77.98%",
+                "urdu":"9.56%",
+                "hindi":"6.49%",
+                "lambadi":"3.20%",
+                "others":"2.77%"
+            }
+        ]
+    }
+]

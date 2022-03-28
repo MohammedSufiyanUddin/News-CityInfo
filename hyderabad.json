@@ -1,0 +1,19 @@
+[
+     {
+         "img_url":"https://www.mapsofindia.com/maps/telangana/tehsil/hyderabad-tehsil-map.jpg",
+         "country":"India",
+         "state":"Telangana",
+         "region":"Deccan",
+         "district":"Hyderabad",
+         "type":"Muncipal corporation",
+        "body":"GHMC",
+        "area":"650km2",
+         "population":"6,809,970",
+        "relegion":[{
+             "Muslim":"30.13%",
+            "Hindu":"64.93%",
+             "Christianity":"2.75%",
+             "Others":"2.19%"
+         }]
+     }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "img_url":"https://www.mapsofindia.com/maps/maharashtra/tehsil/nanded-tehsil-map.jpg",
+        "country":"India",
+        "state":"Maharashtra",
+        "region":"Marathwada",
+        "district":"Nanaded",
+        "type":"Muncipal corporation",
+        "body":"Nanded-Waghala-Muncipal-Corporation",
+        "area":"63.22km2",
+         "population":550.439,
+         "relegion":[{
+             "Hindu":"48.06%",
+            "Muslim":"33.59%",
+            "Budhist":"15.35%",
+            "Sikh":"2.00%",
+            "Others":"1%"
+         }]
+    },
+
+     {
+        "img_url":"https://www.mapsofindia.com/maps/maharashtra/tehsil/parbhani-tehsil-map.jpg",
+         "country":"India",
+         "state":"Maharashtra",
+         "region":"Marathwada",
+        "district":"Parbhani",
+        "type":"Muncipal corporation",
+         "body":"Parbhani-Waghala-Muncipal-Corporation",
+       "area":"53.22km2",
+        "population":350.439,
+        "relegion":[{
+            "Muslim":"48.06%",
+             "Hindu":"33.59%",
+            "Budhist":"15.35%",
+             "Sikh":"2.00%",
+             "Others":"1%"
+       }]
+     },
+
+    {
+        "img_url":"https://www.mapsofindia.com/maps/bihar/tehsil/aurangabad-tehsil-map.jpg",
+         "country":"India",
+        "state":"Maharashtra",
+       "region":"Marathwada",
+        "district":"Aurangabad",
+         "type":"Muncipal corporation",
+         "body":"Aurangabad-Waghala-Muncipal-Corporation",
+         "area":"83.22km2",
+         "population":850.439,
+         "relegion":[{
+            "Muslim":"30.06%",
+            "Hindu":"51.59%",
+            "Budhist":"15.35%",
+            "Sikh":"2.00%",
+            "Others":"1%"
+        }]
+     },
+
+
+     {
+         "img_url":"https://www.mapsofindia.com/maps/telangana/tehsil/hyderabad-tehsil-map.jpg",
+         "country":"India",
+         "state":"Telangana",
+         "region":"Deccan",
+         "district":"Hyderabad",
+         "type":"Muncipal corporation",
+        "body":"GHMC",
+        "area":"260km2",
+         "population":850.439,
+        "relegion":[{
+             "Muslim":"43.06%",
+            "Hindu":"51.59%",
+             "Budhist":"5.35%",
+             "Others":"1%"
+         }]
+     }
+
+ ]

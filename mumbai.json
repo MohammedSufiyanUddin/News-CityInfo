@@ -1,0 +1,21 @@
+[
+    {
+        "img_url":"https://preview.redd.it/god9xw7t20341.png?auto=webp&s=30cf2330152aab1376f990b73ac97433cba68b33",
+        "country":"India",
+        "state":"Maharashtra",
+        "region":"Konkan",
+        "district":"Mumbai city",
+        "type":"Muncipal corporation",
+        "body":"Brihanmumbai-Muncipal-Corporation",
+        "area":"603 km2",
+         "population":"12,478,447",
+         "relegion":[{
+             "Hindu":"65.99%",
+            "Muslim":"20.65%",
+            "Budhist":"4.85%",
+            "Jainism":"4.10%",
+            "Christianity":"3.27%",
+            "Others":"1.15%"
+         }]
+    }
+]

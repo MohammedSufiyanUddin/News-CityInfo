@@ -1,0 +1,22 @@
+[
+     {
+        "img_url":"https://www.mapsofindia.com/maps/maharashtra/tehsil/parbhani-tehsil-map.jpg",
+         "country":"India",
+         "state":"Maharashtra",
+         "region":"Marathwada",
+        "district":"Parbhani",
+        "type":"Muncipal corporation",
+         "body":"Parbhani-Waghala-Muncipal-Corporation",
+       "area":"57.61 km2",
+        "population":"307,170",
+        "relegion":[{
+            "Muslim":"41.25%",
+             "Hindu":"45.11%",
+            "Budhist":"9.21%",
+             "Jainism":"0.93%",
+             "Christianity":"0.23%",
+             "Others":"0.02%",
+             "Not_Stated":"0.47%"
+       }]
+     }
+]

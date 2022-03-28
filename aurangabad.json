@@ -1,0 +1,23 @@
+[
+    {
+        "img_url":"https://www.mapsofindia.com/maps/bihar/tehsil/aurangabad-tehsil-map.jpg",
+         "country":"India",
+        "state":"Maharashtra",
+       "region":"Marathwada",
+        "district":"Aurangabad",
+         "type":"Muncipal corporation",
+         "body":"Aurangabad-Waghala-Muncipal-Corporation",
+         "area":"139km2",
+         "population":"1,175,116",
+         "relegion":[{
+            "Muslim":"30.79%",
+            "Hindu":"51.07%",
+            "Budhist":"15.17%",
+            "Christion":"0.86%",
+            "Sikh":"0.29%",
+            "Jain":"1.62%",
+            "Others":"0.4%",
+            "Not_Stated":"0.15%"
+        }]
+     }
+]
